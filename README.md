@@ -4,9 +4,9 @@ immunoGAT is a graph attention transformer model designed to process both struct
 
 ## Setup:
 
-### Clone ssOAP git repo:
+### Clone immunoGAT git repo:
 ```bash
-git clone https://github.com/david-zhang03/order-processing.git
+git clone https://github.com/david-zhang03/immunoGAT.git
 ```
 
 ### Environment setup: 
