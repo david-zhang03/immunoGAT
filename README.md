@@ -32,6 +32,6 @@ conda activate immunoGAT
 
 Due to file sizes, first generate graphs following instructions in `expand_ablation_graph.ipynb`. This allows you to generate graphs from the PDB files found in `SingleAllele` and `Multiallele`.
 
-To reproduce the results from the baseline GAT mmodel, follow the instructions in `baselineGAT.ipynb`. 
+To reproduce the results from the baseline GAT model, follow the instructions in `baselineGAT.ipynb`. 
 
 To reporduce the results from immunoGAT, follow the instructions in `immunoGAT.ipynb`.
